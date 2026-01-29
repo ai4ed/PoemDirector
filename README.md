@@ -6,7 +6,7 @@ This repository contains the dataset and evaluation scripts for the paper **"Poe
 
 Due to file size limitations, the full video dataset (100 poems × 5 methods) is hosted on Hugging Face.
 
-Please download and unzip **`baseline_poem_generation2.zip`** from the link below:
+Please download and unzip **`poem_dataset.zip`** from the link below:
 
 **[Download Dataset via Hugging Face](https://huggingface.co/datasets/userasadfasdf/poem_data/tree/main)**
 
