@@ -43,3 +43,7 @@ We provide 5 representative demo poems for each method:
 | `Mootion` | [▶︎ demo1](generated_video/Mootion/chusai_demo1.mp4) | [▶︎ demo2](generated_video/Mootion/denggao_demo2.mp4) | [▶︎ demo3](generated_video/Mootion/fengqiao_yebo_demo3.mp4) | [▶︎ demo4](generated_video/Mootion/jiangxue_demo4.mp4) | [▶︎ demo5](generated_video/Mootion/liangzhouci_demo5.mp4) |
 | `ESV` | [▶︎ demo1](generated_video/ESV/chusai_demo1.mp4) | [▶︎ demo2](generated_video/ESV/denggao_demo2.mp4) | [▶︎ demo3](generated_video/ESV/fengqiao_yebo_demo3.mp4) | [▶︎ demo4](generated_video/ESV/jiangxue_demo4.mp4) | [▶︎ demo5](generated_video/ESV/liangzhouci_demo5.mp4) |
 | `PRV` | [▶︎ demo1](generated_video/PRV/chusai_demo1.mp4) | [▶︎ demo2](generated_video/PRV/denggao_demo2.mp4) | [▶︎ demo3](generated_video/PRV/fengqiao_yebo_demo3.mp4) | [▶︎ demo4](generated_video/PRV/jiangxue_demo4.mp4) | [▶︎ demo5](generated_video/PRV/liangzhouci_demo5.mp4) |
+
+
+https://github.com/user-attachments/assets/80cc6263-a2e5-4c1f-8c58-18bf0ccd89ed
+
